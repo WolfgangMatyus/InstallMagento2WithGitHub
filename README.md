@@ -1,0 +1,2 @@
+# InstallMagento2WithGitHub
+SWPRO_Testinstalltion_Magento2
